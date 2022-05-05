@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "bulma-social": "^2.1.0"
+  }
+}
